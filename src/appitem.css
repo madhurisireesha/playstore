@@ -1,0 +1,19 @@
+.imagecontainer{
+    margin-left:10px;
+    margin-right:10px;
+    background-color: white;
+    border-radius:40px;
+    width:170px;
+    height:200px;
+    margin-top: 20px;
+
+} 
+.imagi{
+    width:120px;
+    height:100px;
+    padding-left:30px;
+    padding-top: 20px;
+}
+h4{
+    text-align:center
+}

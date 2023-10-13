@@ -1,0 +1,15 @@
+.btncontainer{
+    display: flex;
+    flex-direction: row;
+   
+}
+button{
+    border-left:none;
+    border-right:none;
+    border-top:none;
+    border-bottom: 2px solid blue;
+    margin-right:10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold;
+    cursor:pointer;
+}
