@@ -300,7 +300,7 @@ class App extends Component{
         <div className="container">
           <h1>App Store</h1>
           <div className='one'>
-          <input type="search" onChange={this.onChangeSearchInput}  value="Search"/>
+          <input type="search" onChange={this.onChangeSearchInput}  placeholder="Search"/>
           </div>
           <div className='two'>
           {tablist.map((tabdetails)=>(
