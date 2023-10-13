@@ -23,5 +23,14 @@ input{
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
+    width:400px;
+  }
+}
+@media(min-width:992px){
+  .three{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width:700px;
   }
 }
