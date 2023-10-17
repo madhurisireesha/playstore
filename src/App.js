@@ -301,6 +301,7 @@ class App extends Component{
           <h1>App Store</h1>
           <div className='one'>
           <input type="search" onChange={this.onChangeSearchInput}  placeholder="Search"/>
+          <img src="https://www.shutterstock.com/image-vector/magnifying-glass-search-icon-flat-260nw-738763579.jpg" className="img1"/>
           </div>
           <div className='two'>
           {tablist.map((tabdetails)=>(
